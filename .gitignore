@@ -48,5 +48,6 @@
 .zcompdump
 .weechat
 .vim/.netrwhist
+.z
 media
 tmp
