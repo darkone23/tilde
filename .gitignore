@@ -42,5 +42,11 @@
 .config/enchant
 .config/xfce4
 .lein/self-installs
+.oh-my-zsh
+.zsh_history
+.zsh-update
+.zcompdump
+.weechat
+.vim/.netrwhist
 media
 tmp
