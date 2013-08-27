@@ -10,6 +10,7 @@
 .fonts.conf
 .gconf
 .git
+.gitp4*
 .gmrun_history
 .gmrunrc
 .gnome2
@@ -28,6 +29,7 @@
 .nv
 .pbuilderrc
 .pki
+.p4tickets
 .profile
 .purple
 .pulse
@@ -54,5 +56,7 @@
 .vim/.netrwhist
 .virtualenvs
 .z
+src
+projects
 media
 tmp
