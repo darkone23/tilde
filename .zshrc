@@ -52,3 +52,8 @@ source $HOME/bin/z.sh
 if which virtualenvwrapper.sh > /dev/null; then
     source virtualenvwrapper.sh
 fi
+
+if [ -f $HOME/.config/local-environment ]; then
+    # custom environment specifics outside of versioning
+    source $HOME/.config/local-environment
+fi

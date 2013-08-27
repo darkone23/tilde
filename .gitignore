@@ -40,6 +40,7 @@
 .Xresources
 .xscreensaver
 .xsession-errors
+.config/local-environment
 .config/google-chrome
 .config/chromium
 .config/enchant
