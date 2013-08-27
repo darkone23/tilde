@@ -49,3 +49,6 @@ export PATH=$PATH:/home/egghead/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin
 
 export EDITOR="emacs -nw"
 source $HOME/bin/z.sh
+if which virtualenvwrapper.sh > /dev/null; then
+    source virtualenvwrapper.sh
+fi
