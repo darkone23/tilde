@@ -18,7 +18,7 @@ This is particularly useful under Mac OSX, where GUI apps are not started from a
 (when (not package-archive-contents)
   (package-refresh-contents))
 
-(defvar my-packages '(ack-and-a-half better-defaults)
+(defvar my-packages '(ack-and-a-half better-defaults evil)
   "A list of packages to ensure are installed at launch.")
 
 (dolist (p my-packages)
