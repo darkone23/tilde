@@ -7,5 +7,6 @@ call vundle#rc()
 Bundle 'vundle'
 Bundle 'ctrlp.vim'
 Bundle 'surround.vim'
+Bundle 'ack.vim'
 
 filetype plugin indent on
