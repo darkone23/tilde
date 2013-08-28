@@ -45,7 +45,7 @@
 .xscreensaver
 .xsession-errors
 .config/local-environment
-.config/google-chrome
+.config/google-*
 .config/chromium
 .config/enchant
 .config/xfce4
