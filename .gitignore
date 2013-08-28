@@ -5,6 +5,7 @@
 .cache
 .conkyrc
 .dbus
+.emacs.d
 .fontconfig
 .fonts
 .fonts.conf
