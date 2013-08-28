@@ -58,6 +58,9 @@
 .vim/.netrwhist
 .vim/bundle
 .virtualenvs
+.VirtualBox
+.vboxvms
+.vagrant.d
 .z
 src
 projects
