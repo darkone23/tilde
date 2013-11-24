@@ -7,8 +7,6 @@ export EDITOR="emacs -nw"
 
 source $HOME/bin/z.sh
 
-alias docker="sudo docker"
-
 if which virtualenvwrapper.sh > /dev/null; then
     source virtualenvwrapper.sh
 fi

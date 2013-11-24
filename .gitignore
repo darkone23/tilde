@@ -5,6 +5,7 @@
 .cache
 .conkyrc
 .dbus
+.dockercfg
 .emacs.d
 .fontconfig
 .fonts
