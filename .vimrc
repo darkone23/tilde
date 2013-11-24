@@ -10,3 +10,5 @@ Bundle 'surround.vim'
 Bundle 'ack.vim'
 
 filetype plugin indent on
+
+let g:ackprg = 'ag --nogroup --nocolor --column'
