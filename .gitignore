@@ -11,6 +11,7 @@
 .fonts.conf
 .gconf
 .git
+.gem
 .gitp4*
 .gmrun_history
 .gmrunrc

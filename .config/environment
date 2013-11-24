@@ -1,5 +1,7 @@
 export PATH=$PATH:$HOME/bin
 
+export VAGRANT_DEFAULT_PROVIDER=lxc
+
 alias emacs="emacs -nw"
 export EDITOR="emacs -nw"
 
