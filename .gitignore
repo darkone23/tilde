@@ -36,6 +36,7 @@
 .pulse
 .pulse-cookie
 .ssh
+.sudo*
 .themes
 .thumbnails
 .viminfo
@@ -53,7 +54,7 @@
 .oh-my-zsh
 .zsh_history
 .zsh-update
-.zcompdump
+.zcompdump*
 .weechat
 .vim/.netrwhist
 .vim/bundle
