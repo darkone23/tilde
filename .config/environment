@@ -11,3 +11,5 @@ if which virtualenvwrapper.sh > /dev/null; then
     source virtualenvwrapper.sh
 fi
 
+export PATH="$HOME/.rbenv/bin:$PATH"
+eval "$(rbenv init -)"

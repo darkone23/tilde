@@ -16,6 +16,8 @@
 .gitp4*
 .gmrun_history
 .gmrunrc
+.showterm
+.rbenv/
 .gnome2
 .gnome2_private
 .gstreamer-0.10
